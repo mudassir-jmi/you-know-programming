@@ -22,11 +22,19 @@
 
 Figure 1: Representing Real-World Data In The Computer
 
+![Figure !](../img/figure1.png)
+
 🚀 Computers Are Electronic Machines:- The computer uses electricity, not mechanical parts, for its data processing and storage.
 
 🚀 Electricity is plentiful, moves very fast through wires, and electrical parts fail much less frequently than mechanical parts.
 
 🚀 The computer does have some mechanical parts, like its disk drive (which are often the sources for computer failures), but the internal data processing and storage is electronic, which is fast and reliable (as long as the computer is plugged in).
+
+Binary and Switches:- Binary is a mathematical number system: a way of counting. We have all learned to count using ten digits: 0-9.
+
+🚀 One probable reason is that we have ten fingers to represent numbers. The computer has switches to represent data and switches have only two states: ON and OFF.
+
+🚀 Binary has two digits to do the counting: 0 and 1 - a natural fit to the two states of a switch (0 = OFF, 1 = ON).
 
 ### What is internet ❓
 
