@@ -1,14 +1,14 @@
 # Learn Basic of computers
 
---- What is computer ❓
+### What is computer ❓
 
 🚀 A computer is an electronic device that processes and stores data, executing tasks through a combination of hardware components, including a central processing unit (CPU), memory, and storage devices.
 
---- What is Ram ❓
+#### What is Ram ❓
 
 🚀 RAM, or Random Access Memory, is a type of computer memory that provides high-speed access to data and actively used program instructions. Unlike storage devices such as hard drives or SSDs, RAM is volatile and loses its content when the computer is powered off.
 
-### How does computer store information or data ❓
+#### How does computer store information or data ❓
 
 👉 We have all seen computers do seemingly miraculous things with all kinds of sounds, pictures, graphics, numbers, and text.
 
