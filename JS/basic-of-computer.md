@@ -1,4 +1,4 @@
-# Learn Basic of computers
+# Learn Basics of Computer 👇
 
 ### What is computer ❓
 
@@ -22,7 +22,7 @@
 
 Figure 1: Representing Real-World Data In The Computer
 
-![Figure !](../img/figure1.png)
+![Figure1 !](../img/figure1.png)
 
 🚀 Computers Are Electronic Machines:- The computer uses electricity, not mechanical parts, for its data processing and storage.
 
@@ -35,6 +35,36 @@ Binary and Switches:- Binary is a mathematical number system: a way of counting.
 🚀 One probable reason is that we have ten fingers to represent numbers. The computer has switches to represent data and switches have only two states: ON and OFF.
 
 🚀 Binary has two digits to do the counting: 0 and 1 - a natural fit to the two states of a switch (0 = OFF, 1 = ON).
+
+🚀 The evolution of how switches were built made computers faster, cheaper, and smaller.
+
+🚀 Originally, a switch was a vacuum tube, about the size of a human thumb. In the 1950's the transistor was invented (and won its inventors a Noble Prize).
+
+🚀 It allowed a switch to be the size of a human fingernail. The development of integrated circuits in the 1960s allowed millions of transistors to be fabricated on a silicon chip - which allowed millions of switches on something the size of a fingernail.
+
+Bits and Bytes. One binary digit (0 or 1) is referred to as a bit, which is short for binary digit. Thus, one bit can be implemented by one switch, as shown in Figure 2.
+
+![Figure2 !](../img/figure2.png)
+
+👉 In the following table, we see that bits can be grouped together into larger chunks to represent data.
+
+![Figure2-1 !](../img/figure2-1.png)
+
+👉 For several reasons that we do not go into here, computer designers use eight bit chunks called bytes as the basic unit of data. A byte is implemented with eight switches as shown in Figure 3.
+
+![Figure3 !](../img/figure3.png)
+
+#### Figure 3: Implementing a Byte
+
+🚀 Computer manufacturers express the capacity of memory and storage in terms of the number of bytes it can hold.
+
+🚀 The number of bytes can be expressed as kilobytes. Kilo represents 2 to the tenth power, or 1024.
+
+🚀 Kilobyte is abbreviated KB, or simply K. (Sometimes K is used casually to mean 1000, as in "I earned $30K last year.") A kilobyte is 1024 bytes.
+
+🚀 Thus, the memory of a 640K computer can store 640x1024, or 655,360 bytes. Memory capacity may also be expressed in terms of megabytes (1024x1024 bytes). One megabyte, abbreviated MB, means roughly one million bytes.
+
+🚀 With storage devices, manufacturers sometimes express memory amounts in terms of gigabytes (abbreviated GB); a gigabyte is roughly a billion bytes. Computer memory, or RAM, in modern computers might hold 256 MB, or roughly 256 million bytes. Modern computer hard disks hold gigabytes (e.g. 80 GB).
 
 ### What is internet ❓
 
