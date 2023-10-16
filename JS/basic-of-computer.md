@@ -14,7 +14,7 @@
 
 👉 It seems that we can build a replica of parts of our world inside the computer.
 
-👉You might think that this amazing machine is also amazingly complicated - it really is not.
+👉 You might think that this amazing machine is also amazingly complicated - it really is not.
 
 👉 In fact, all of the wonderful multi-media that we see on modern computers is all constructed from simple ON/OFF switches - millions of them - but really nothing much more complicated than a switch.
 
